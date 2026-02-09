@@ -2,7 +2,7 @@
 
 🚀 **Data Engineer | Cloud Enthusiast | AWS | GCP | Python**
 
-I’m a data engineer with 4+ years of experience building and managing **ETL pipelines**, **data lake architectures**, and **cloud-based data solutions**.  
+I’m a data engineer with 5+ years of experience building and managing **ETL pipelines**, **data lake architectures**, and **cloud-based data solutions**.  
 Currently exploring **AWS serverless data pipelines**, automation, and analytics systems.
 
 ---
